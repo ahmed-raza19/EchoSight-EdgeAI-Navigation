@@ -270,11 +270,11 @@ You should hear *"Path planning"* → *"Following you. Walk forward."* — then 
 
 This project was built by a team of five over several weeks of hardware debugging, late nights, and a lot of burnt patience (and one motor driver).
 
-- **Ahmed Raza** — 
-- **Muhammad Shaheed Khan** — 
-- **Abuzar Ali** — 
-- **Abdul Sammad** —
-- **Faizan Ahmad** —
+- **Ahmed Raza** 
+- **Muhammad Shaheed Khan** 
+- **Abuzar Ali** 
+- **Abdul Sammad**
+- **Faizan Ahmad**
 
 ---
 
