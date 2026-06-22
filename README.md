@@ -17,11 +17,11 @@
 
 ## 📸 The Build
 
-> *(Add a wide photo of the assembled rover here)*
 
 | The Rover | The Goggles |
 |:---------:|:-----------:|
-| *(rover photo here)* | *(goggles photo here)* |
+| * <img width="767" height="705" alt="WhatsApp Image 2026-06-22 at 5 06 27 PM" src="https://github.com/user-attachments/assets/1d02a7fc-60b0-4522-92ae-0832a8c9f549" />
+* | *(goggles photo here)* |
 
 ---
 
@@ -39,7 +39,7 @@ This project was built as part of our AI and Robotics coursework at FAST NUCES I
 
 ## 🎬 Demo
 
-> *(Add a GIF or short demo video/link here)*
+> *https://drive.google.com/file/d/1FF9CtHqbxq1pq8Tp9HdqUXWk8n4GvDZg/view?usp=drivesdk*
 
 ---
 
