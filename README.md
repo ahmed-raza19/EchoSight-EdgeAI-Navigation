@@ -270,19 +270,14 @@ You should hear *"Path planning"* → *"Following you. Walk forward."* — then 
 
 This project was built by a team of five over several weeks of hardware debugging, late nights, and a lot of burnt patience (and one motor driver).
 
-- **Ahmed Raza** — 24i-0026
-- **[Name]** — 24i-0037
-- **[Name]** — 24i-0041
-- **[Name]** — 24i-0059
-- **[Name]** — 24i-0095
+- **Ahmed Raza** — 
+- **Muhammad Shaheed Khan** — 
+- **Abuzar Ali** — 
+- **Abdul Sammad** —
+- **Faizan Ahmad** —
 
 ---
 
-## 🎓 Acknowledgements
-
-Big thank you to **[Teacher 1 Name]** and **[Teacher 2 Name]** for their guidance, feedback, and for pushing us to build something that solves a real problem rather than just checking boxes.
-
----
 
 ## 📄 License
 
