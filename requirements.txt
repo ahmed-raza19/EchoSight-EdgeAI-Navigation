@@ -1,2 +1,15 @@
-ultralytics==8.0.0
+# Core
+numpy
 opencv-python
+pyttsx3
+scipy
+
+# LiDAR
+rplidar-roboticia
+
+# AI / Vision
+ultralytics         # YOLOv8
+deep-sort-realtime  # DeepSORT person tracking
+
+# GPIO (Raspberry Pi only)
+RPi.GPIO
