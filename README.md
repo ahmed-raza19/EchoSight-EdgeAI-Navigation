@@ -21,7 +21,7 @@
 | The Rover | The Goggles |
 |:---------:|:-----------:|
 | * <img width="767" height="705" alt="WhatsApp Image 2026-06-22 at 5 06 27 PM" src="https://github.com/user-attachments/assets/1d02a7fc-60b0-4522-92ae-0832a8c9f549" />
-* | *<img width="1600" height="936" alt="WhatsApp Image 2026-07-22 at 4 35 05 PM - Edited" src="https://github.com/user-attachments/assets/ca66f6a1-5db9-45bb-b486-97f26be0f650" />
+* | *<img width="1600" height="936" alt="WhatsApp Image 2026-07-22 at 4 35 05 PM - Edited" src="https://github.com/user-attachments/assets/ca66f6a1-5db9-45bb-b486-97f26be0f650" /> *
  |
 
 ---
